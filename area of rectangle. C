@@ -1,0 +1,20 @@
+#include<stdio.h>
+
+#include<math.h>
+
+int main()
+
+1
+
+int area,1,w
+
+printf("Enter the length and width of the rectangle:\n");
+
+scanf("%d %d",&1.&w);
+
+area=1*w;
+
+printf("Area of the retangle is d", area):
+
+return 0;
+}
